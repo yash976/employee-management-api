@@ -1,5 +1,5 @@
 # Employment Management API (Spring Boot + MySQL)
-
+ 
 A complete RESTful backend service built using **Spring Boot**, **Spring Data JPA**, and **MySQL**, designed to manage employee records with clean architecture and production-ready code structure.
 
 ---
